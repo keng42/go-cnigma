@@ -1,4 +1,4 @@
-module github.com/keng42/cnigma-go/cnigma
+module github.com/keng42/go-cnigma/cnigma
 
 go 1.15
 
